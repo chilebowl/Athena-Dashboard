@@ -1,0 +1,5 @@
+athena-dashboard/
+├── index.html       ← raíz
+├── vercel.json      ← nuevo
+├── README.md
+└── LICENSE
